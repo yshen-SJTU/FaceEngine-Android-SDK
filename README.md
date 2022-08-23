@@ -4,7 +4,7 @@ A group of libraries for face detection and recognition that provide following f
 - Simple Java APIs
 - Easy to use and integrate
 
-## Files/Dir Introduction
+## File/Dir Introduction
 
 - JniLibs/{android_arch}/libxcaan_faceengine.so
 
